@@ -7,23 +7,54 @@
 	<channel>
 		<title>Shaping Exercises 101</title>
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
-		<link>https://github.com/GorkyR/ShapingExercises101Podcast</link>
+		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 25 Aug 2021 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
 		<image>
 			<title>Shaping Exercises 101</title>
-			<url>https://i.imgur.com/OENJx2W.jpg</url>
-			<link>https://github.com/GorkyR/ShapingExercises101Podcast</link>
+			<url>https://i.imgur.com/W1UQJl0.jpg</url>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		</image>
-		<itunes:image href="https://i.imgur.com/OENJx2W.jpg"/>
+		<itunes:image href="https://i.imgur.com/W1UQJl0.jpg"/>
 		<itunes:category text="Arts">
 			<itunes:category Text="Books"/>
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
-		
+		<item>
+			<title>00 - Prelude/Teaser</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-00</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-00</guid>
+			<pubDate>Wed, 25 Aug 2021 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Welcome to the Shaping Exercises 101 podcast!</strong></p>
+				<p>No, it&#39;s not about fitness and gym tips (apparently). It&#39;s an analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</p>
+				<p>Griffin is a seasoned, multiple-time reader and fan of the work, who will acompany Gorky through a first-time read, and they&#39;ll discuss a few chapters every week.</p>
+				<p>Hear them say hi in this very, very short teaser, and tune in next week for the first episode, in which we&#39;ll be discussing chapters 1–3:</p>
+				<ol>
+					<li>Good Morning Brother</li>
+					<li>Life&#39;s Little Problems</li>
+					<li>The Bitter Truth</li>
+				</ol>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/k78uQ5g7cz">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/1">Github</a>. 😅</del></p>
+				<p>Until next week! 👋</p>
+				<hr>
+				<p>Notes:</p>
+				<ul>
+					<li>Yes, we know that Lord of the Rings takes place over 3 years. Griffin's girlfriend already chastised him for that mistake.</li>
+					<li>We're both total newbs to podcasting, audio editing, and at least one of us to public speaking <s>(and speaking in general)</s>. Please excuse awkwardness, nervousness, fumbles, with this in mind for the first couple episodes 🙏</li>
+					<li>The intro (and the outro) is an edit of one of the songs from Groundhog Day's OST: &quot;<a href="https://youtu.be/l1ryj5G30NE">Sometimes People Just Die</a>&quot;, by George Fenton</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>New analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:subtitle>
+			<itunes:summary>New analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-00/00_prelude_episode.mp3" length="31904129" type="audio/mpeg" />
+			<itunes:duration>0:13:17</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 	</channel>
 </rss>
