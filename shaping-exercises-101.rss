@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>Shaping Exercises 101</title>
+		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
+		<link>https://github.com/GorkyR/ShapingExercises101Podcast</link>
+		<description>An analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
+		<lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
+		<language>en-US</language>
+		<itunes:summary>An analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
+		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
+		<image>
+			<title>Shaping Exercises 101</title>
+			<url>https://i.imgur.com/OENJx2W.jpg</url>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast</link>
+		</image>
+		<itunes:image href="https://i.imgur.com/OENJx2W.jpg"/>
+		<itunes:category text="Arts">
+			<itunes:category Text="Books"/>
+		</itunes:category>
+		<itunes:explicit>yes</itunes:explicit>
+
+		
+	</channel>
+</rss>
