@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 25 Aug 2021 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 01 Sep 2021 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -24,6 +24,49 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>01 - Chapters 01–03</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-01</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-01</guid>
+			<pubDate>Wed, 01 Sep 2021 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Perpetually eye-rolling... in his soul</strong></p>
+				<p>Enjoy our first episode!</p>
+				<p>We discuss the first three chapters of Mother of Learning.  (Check out our previous prelude/teaser episode if you want more information about what this is all about.)</p>
+				<p>This guy&#39;s internal experience is just a stream of long-suffering sighs.</p>
+				<p>Next week, we&#39;re discussing chapters 4–5:</p>
+				<ol start="4">
+					<li>Stars Fell</li>
+					<li>Start Over</li>
+				</ol>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/2">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li><a href="https://en.wikipedia.org/wiki/Racewalking">Racewalking</a> (<a href="https://www.youtube.com/watch?v=gzgy1jY_Ukw">Video</a>)</li>
+					<li>
+						&quot;Hard&quot;(?) science fantasy story discussed: <a href="https://www.goodreads.com/book/show/57891607-ra">Ra, by Sam Hughes / qntm</a><br>([!] spoilers @44:51–45:34 (skippable by chapter markers))
+						<ul>
+							<li><a href="https://qntm.org/invisibility">Invisibility Theory</a> appendix.</li>
+						</ul>
+					</li>
+					<li>Hard science fantasy recommendation from Griffin: <a href="https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind">Name of the Wind, by Patrick Rothfuss</a>.</li>
+					<li>Referenced <a href="https://www.deviantart.com/rizaki717/art/007-Xvim-Chao-507323770">Xvim Chao &amp; Zorian fanart</a>.</li>
+				</ul>
+				<hr>
+				<p>Notes:</p>
+				<ul>
+					<li>Recommended playback speed is &gt;1.3x 😅</li>
+					<li>About half-way into the episode, you may notice a sharp increase in the amount and frequency of &#39;um&#39;s, &#39;uh&#39;s, stutters, pauses, and repetition.  That would be the point where I gave up obsessing over every little detail.  (This episode needed to come out this year.  😬)  We intend for the next one to be better on that front.</li>
+					<li>While discussing Chapter 3, recording had to be postponed multiple times for personal reasons.  I tried to mask this on post, but we may not have done a perfect job picking up every thread we left hanging every time.  My bad.</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Perpetually eye-rolling... in his soul</itunes:subtitle>
+			<itunes:summary>Perpetually eye-rolling... in his soul</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-01/01_chapters_01-03.mp3" length="360316401" type="audio/mpeg" />
+			<itunes:duration>2:30:07</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>00 - Prelude/Teaser</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-00</link>
@@ -40,7 +83,7 @@
 					<li>The Bitter Truth</li>
 				</ol>
 				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>.</p>
-				<p>You can chat with us on <a href="https://discord.gg/k78uQ5g7cz">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/1">Github</a>. 😅</del></p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/1">Github</a>. 😅</del></p>
 				<p>Until next week! 👋</p>
 				<hr>
 				<p>Notes:</p>
