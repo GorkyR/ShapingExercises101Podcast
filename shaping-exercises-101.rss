@@ -8,10 +8,10 @@
 		<title>Shaping Exercises 101</title>
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
-		<description>An analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 01 Sep 2021 00:00:00 -0400</lastBuildDate>
+		<description>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
+		<lastBuildDate>Wed, 08 Sep 2021 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
-		<itunes:summary>An analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
+		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
 		<image>
 			<title>Shaping Exercises 101</title>
@@ -24,6 +24,39 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>02 - Chapters 04–05</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-02</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-02</guid>
+			<pubDate>Wed, 08 Sep 2021 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Start over (and make it spin)!</strong></p>
+				<p>This week, we discussed chapters 4 and 5.</p>
+				<p>A damsel in distress, falling stars, undead creatures, and Forbidden Love.</p>
+				<p>Next week, we&#39;re discussing chapters 6–7:</p>
+				<ol start="6">
+					<li>Concentrate and Try Again</li>
+					<li>Of Gaps and Pretending</li>
+				</ol>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/3">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li>
+						<a href="https://cdn.discordapp.com/attachments/874061808762245202/884191269700653126/trollsblogimage_orig.png">Trolls in the Harry Potter movies</a>
+						<ul>
+							<li><a href="https://cdn.discordapp.com/attachments/874061808762245202/884191415813427230/Ru41ghLy_400x400.png">(Gorky&#39;s idea of a troll under the bridge)</a></li>
+						</ul>
+					</li>
+					<li><a href="https://www.deviantart.com/envidia14/art/Quatach-ichl-801526521">King lich fanart</a></li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Start over (and make it spin)!</itunes:subtitle>
+			<itunes:summary>Start over (and make it spin)!</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-02/02_chapters_04-05.mp3" length="98712323" type="audio/mpeg" />
+			<itunes:duration>1:43:41</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>01 - Chapters 01–03</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-01</link>
@@ -63,7 +96,7 @@
 			]]></description>
 			<itunes:subtitle>Perpetually eye-rolling... in his soul</itunes:subtitle>
 			<itunes:summary>Perpetually eye-rolling... in his soul</itunes:summary>
-			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-01/01_chapters_01-03.mp3" length="360316401" type="audio/mpeg" />
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-01/01_chapters_01-03.mp3" length="145045946" type="audio/mpeg" />
 			<itunes:duration>2:30:07</itunes:duration>
 			<itunes:author>Gorky Rojas</itunes:author>
 		</item>
