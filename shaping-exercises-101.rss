@@ -3,27 +3,63 @@
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
 	<channel>
 		<title>Shaping Exercises 101</title>
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 08 Sep 2021 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 15 Sep 2021 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
+		<googleplay:owner>gorkyrojas@gmail.com</googleplay:owner>
+		<itunes:owner>
+			<itunes:name>Gorky Rojas</itunes:name>
+			<itunes:email>gorkyrojas@gmail.com</itunes:email>
+		</itunes:owner>
 		<image>
 			<title>Shaping Exercises 101</title>
-			<url>https://i.imgur.com/W1UQJl0.jpg</url>
+			<url>https://i.imgur.com/mcddFmu.jpg</url>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		</image>
-		<itunes:image href="https://i.imgur.com/W1UQJl0.jpg"/>
+		<itunes:image href="https://i.imgur.com/mcddFmu.jpg"/>
 		<itunes:category text="Arts">
 			<itunes:category Text="Books"/>
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>03 - Chapters 06–07</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-03</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-03</guid>
+			<pubDate>Wed, 15 Sep 2021 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>-Knock, knock. -Who&#39;s—AAAGH!</strong></p>
+				<p>This week, we discuss chapters 6 and 7.</p>
+				<p>He&#39;s back and he&#39;s going to set the record straight.</p>
+				<p>Next week, we&#39;re discussing chapters 8–9:</p>
+				<ol start="8">
+					<li>Perspective</li>
+					<li>Cheaters</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/4">Github</a>. 😅</del></p>
+				<hr>
+				<p>Notes:</p>
+				<ul>
+					<li>This week, I (Gorky) realized my audio was affected by some high-frequency noise.  To salvage the audio, I performed some destructive transformations on it, including filtering out high frequencies.  As a result, my side of this week&#39;s audio sounds a bit more &#39;damp&#39;, and overall much lower quality than usual. Apologies for the degraded experience. 🙇‍♂️</li>
+					<li>Recommended playback speed is still &gt;1.3x 😅</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>-Knock, knock. -Who&#39;s—AAAGH!</itunes:subtitle>
+			<itunes:summary>-Knock, knock. -Who&#39;s—AAAGH!</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-03/03_chapters_06-07.mp3" length="225532173" type="audio/mpeg" />
+			<itunes:duration>1:33:50</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>02 - Chapters 04–05</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-02</link>
