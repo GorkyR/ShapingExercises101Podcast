@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 15 Sep 2021 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 22 Sep 2021 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,47 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>04 - Chapters 08–09</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-04</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-04</guid>
+			<pubDate>Wed, 22 Sep 2021 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>The Hole: A living being occasionally spawning whorls of matter</strong></p>
+				<p>This week, we discuss chapters 8 and 9.</p>
+				<p>Zorian scores a date; kicks some ass.</p>
+				<p>Next week, we&#39;re discussing chapters 10–12:</p>
+				<ol start="10">
+					<li>Overlooked Details</li>
+					<li>Limiters</li>
+					<li>Soul Web</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/5">Github</a>. 😅</del></p>
+				<hr>
+				<p>Notes:</p>
+				<ul>
+					<li>
+						You can now get this podcast on:
+						<ul>
+							<li><a href="https://podcasts.apple.com/us/podcast/shaping-exercises-101/id1586390909">Apple Podcasts</a></li>
+							<li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9nb3JreXIuZ2l0aHViLmlvL1NoYXBpbmdFeGVyY2lzZXMxMDFQb2RjYXN0L3NoYXBpbmctZXhlcmNpc2VzLTEwMS5yc3M">Google Podcasts</a></li>
+							<li><a href="https://open.spotify.com/show/6YYGFtijStxsHMlBCZa0xq">Spotify</a></li>
+							<li><a href="https://player.fm/series/shaping-exercises-101">PlayerFM</a></li>
+							<li><a href="https://podcastaddict.com/podcast/3596040">Podcast Addict</a></li>
+							<li><a href="https://pca.st/podcast/5d18ad70-e769-0139-6997-0acc26574db2">Pocket Casts</a></li>
+						</ul>
+					</li>
+					<li>Recommended playback speed is still &gt;1.3x 😅</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>The Hole: A living being occasionally spawning whorls of matter</itunes:subtitle>
+			<itunes:summary>The Hole: A living being occasionally spawning whorls of matter</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-04/04_chapters_08-09.mp3" length="84500476" type="audio/mpeg" />
+			<itunes:duration>1:26:00</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>03 - Chapters 06–07</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-03</link>
