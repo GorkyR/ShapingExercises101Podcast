@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 22 Sep 2021 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 29 Sep 2021 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,42 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>05 - Chapters 10–12</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-05</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-05</guid>
+			<pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong><a href="https://i.imgur.com/PQzF43h.png">Friendship ended with Xvim.  Now Nora is my best friend</a></strong></p>
+				<p>This week, we discuss chapters 10 through 12.</p>
+				<p>Next week, we&#39;re discussing chapters 13–15:</p>
+				<ol start="13">
+					<li>Any Second Now</li>
+					<li>The Sister Effect</li>
+					<li>Busy Friday</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/6">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li><strong><a href="https://www.patreon.com/nobody103">Support the author on Patreon!</a></strong></li>
+					<li><a href="https://media.wsimag.com/attachments/07f9444f21538d56da29e8df5e8dc6614af5019f/store/fill/860/645/802b4a14c341c46e8993554a134ddcd8a37631a4e5b3c49933d696ad94fa/Grupo-de-Morlocks.jpg">Classic (H. G. Well&#39;s) morlocks (image)</a></li>
+					<li>
+						<a href="https://pocketsleuth.files.wordpress.com/2019/09/mol1.jpg">Kael and Kana fanart (image)</a>
+						<ul>
+							<li><a href="https://pocketsleuth.wordpress.com/2019/09/30/kael-and-kana/">(Source)</a></li>
+						</ul>
+					</li>
+					<li><a href="https://www.maa.org/external_archive/devlin/LockhartsLament.pdf">A Mathematician&#39;s Lament, by Paul Lockhart (pdf)</a></li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Friendship ended with Xvim.  Now Nora is my best friend</itunes:subtitle>
+			<itunes:summary>Friendship ended with Xvim.  Now Nora is my best friend</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-05/05_chapters_10-12.mp3" length="110313998" type="audio/mpeg" />
+			<itunes:duration>1:50:31</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>04 - Chapters 08–09</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-04</link>
