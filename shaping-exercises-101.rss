@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 29 Sep 2021 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 06 Oct 2021 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,40 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>06 - Chapters 13–15</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-06</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-06</guid>
+			<pubDate>Wed, 06 Oct 2021 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Ramen becomes very important</strong></p>
+				<p>This week, we discuss chapters 13 through 15.</p>
+				<p>Next week, we&#39;re discussing chapters 16–18:</p>
+				<ol start="16">
+					<li>We Need To Talk</li>
+					<li>Sympathy for the Spider</li>
+					<li>The Pact is Sealed</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/7">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li>
+						<a href="https://en.wikipedia.org/wiki/Fullmetal_Alchemist:_Brotherhood">Fullmetal Alchemist: Brotherhood (wiki)</a>
+						<ul>
+							<li><a href="https://anilist.co/anime/5114/">(AniList)</a></li>
+							<li><a href="https://myanimelist.net/anime/5114/">(MyAnimeList)</a></li>
+						</ul>
+					</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Ramen becomes very important</itunes:subtitle>
+			<itunes:summary>Ramen becomes very important</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-06/06_chapters_13-15.mp3" length="118473243" type="audio/mpeg" />
+			<itunes:duration>1:54:26</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>05 - Chapters 10–12</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-05</link>
