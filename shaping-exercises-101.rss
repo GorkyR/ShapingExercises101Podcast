@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 06 Oct 2021 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 13 Oct 2021 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,34 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>07 - Chapters 16–18</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-07</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-07</guid>
+			<pubDate>Wed, 13 Oct 2021 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Kill. Your. Self!!!</strong></p>
+				<p>This week, we discuss chapters 16 through 18.</p>
+				<p>Next week, we&#39;re discussing chapters 19–21:</p>
+				<ol start="19">
+					<li>Tangled Webs</li>
+					<li>A Matter of Faith</li>
+					<li>Wheel of Fortune</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/8">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li><a href="https://www.youtube.com/watch?v=bLeQKyrp0mg">Psych S1E1 - &#39;How Many Hats&#39; (Video)</a></li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Kill. Your. Self!!!</itunes:subtitle>
+			<itunes:summary>Kill. Your. Self!!!</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-07/07_chapters_16-18.mp3" length="184255254" type="audio/mpeg" />
+			<itunes:duration>3:04:15</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>06 - Chapters 13–15</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-06</link>
