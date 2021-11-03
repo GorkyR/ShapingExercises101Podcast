@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 27 Oct 2021 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 03 Nov 2021 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,40 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>09 - Chapters 22–24</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-09</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-09</guid>
+			<pubDate>Wed, 03 Nov 2021 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Friendship ended with Nora.  Now Ilsa is my best friend</strong></p>
+				<p>This week, we discuss chapters 22 through 24.</p>
+				<p>Next week, we&#39;re discussing chapters 25 and 26:</p>
+				<ol start="25">
+					<li>The Unexpected</li>
+					<li>Soulkill</li>
+				</ol>
+				<p>☝🏽 That&#39;s the end of Book 1!</p>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/10">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li><a href="https://xkcd.com/378/">xkcd 378: Real Programmers</a></li>
+					<li>
+						<a href="https://i.redd.it/wzu0wyc40qu21.png">Zorian✕Resolve fanart (image)</a>
+						<ul>
+							<li><a href="https://www.reddit.com/r/motheroflearning/comments/bhuq5a/mother_of_learning_fan_art_spear_of_resolve_x/">(source)</a></li>
+						</ul>
+					</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Friendship ended with Nora.  Now Ilsa is my best friend</itunes:subtitle>
+			<itunes:summary>Friendship ended with Nora.  Now Ilsa is my best friend</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-09/09_chapters_22-24.mp3" length="165363994" type="audio/mpeg" />
+			<itunes:duration>2:36:51</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>08 - Chapters 19–21</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-08</link>
@@ -52,8 +86,8 @@
 					<li><a href="https://www.youtube.com/watch?v=IZeWPScnolo">Tim Minchin - Thank You God (Song)</a></li>
 				</ul>
 			]]></description>
-			<itunes:subtitle></itunes:subtitle>
-			<itunes:summary></itunes:summary>
+			<itunes:subtitle>The man-whore</itunes:subtitle>
+			<itunes:summary>The man-whore</itunes:summary>
 			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-08/08_chapters_19-21.mp3" length="171973218" type="audio/mpeg" />
 			<itunes:duration>2:50:45</itunes:duration>
 			<itunes:author>Gorky Rojas</itunes:author>
