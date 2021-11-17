@@ -9,10 +9,10 @@
 		<title>Shaping Exercises 101</title>
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
-		<description>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 10 Nov 2021 00:00:00 -0400</lastBuildDate>
+		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
+		<lastBuildDate>Wed, 17 Nov 2021 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
-		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
+		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
 		<googleplay:owner>gorkyrojas@gmail.com</googleplay:owner>
 		<itunes:owner>
@@ -30,6 +30,42 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>11 - Arc 1 Restrospective + Chapter 27</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-11</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-11</guid>
+			<pubDate>Wed, 17 Nov 2021 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>It was the heat of the moment</strong></p>
+				<p>We have a special guest with us: Steven Zuber, co-host of the podcast <a href="https://hpmorpodcast.com/?page_id=2339"><em>Not Everything Is A Clue</em></a>!  We&#39;re discussing our thoughts on the past <em>Arc 1: Caught in the Web</em> of Mother of Learning, and chapter 27, the beginning of Arc 2.</p>
+				<p>Next week, we&#39;re discussing chapters 28–30:</p>
+				<ol start="28">
+					<li>Cauldron</li>
+					<li>The Hunters and the Hunted</li>
+					<li>A Game of Shops</li>
+				</ol>
+				<p>Apologies for the audio quality.</p>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/12">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li>
+						<a href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss">Not Everything is a Clue (RSS)</a>
+						<ul>
+							<li><a href="https://www.patreon.com/noteverythingisaclue">(Patreon)</a></li>
+						</ul>
+					</li>
+					<li><a href="https://www.youtube.com/watch?v=TC1LiBBkDdo">Pitch Meeting - Army of the Dead (Video)</a></li>
+					<li><a href="https://www.youtube.com/watch?v=0TvKsVxgbF4">Spider-Man 2 - Harry Osborn learns the truth (Video)</a></li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>It was the heat of the moment</itunes:subtitle>
+			<itunes:summary>It was the heat of the moment</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-11/11_retro_arc_1_+_chapter_27.mp3" length="128057886" type="audio/mpeg" />
+			<itunes:duration>1:58:01</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>10 - Chapters 25–26</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-10</link>
