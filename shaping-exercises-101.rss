@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 24 Nov 2021 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 01 Dec 2021 23:45:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,35 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>13 - Chapters 31–33</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-13</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-13</guid>
+			<pubDate>Wed, 01 Dec 2021 23:45:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong><em>Interrogation</em></strong></p>
+				<p>This week, we discuss chapters 31 through 33.</p>
+				<p>Next week, we&#39;re discussing chapters 34–36:</p>
+				<ol start="34">
+					<li>Unreasonable Things</li>
+					<li>Mistakes Have Been Made</li>
+					<li>A Battle of Minds</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/14">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li><a href="https://www.amazon.com/dp/B09M2R6QLF/">Mother of Learning: ARC 1 (Kindle Edition) (Amazon)</a></li>
+					<li><a href="https://www.royalroad.com/fiction/49033/mother-of-learning-the-au-chapters/chapter/798258/the-fourth-looper">Mother of Learning: The Au Chapters - Chapter 4 - The Fourth Looper (Spoiler-free) (RoyalRoad)</a></li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Interrogation</itunes:subtitle>
+			<itunes:summary>Interrogation</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-13/13_chapters_31-33.mp3" length="115327351" type="audio/mpeg" />
+			<itunes:duration>1:48:41</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>12 - Chapters 28–30</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-12</link>
