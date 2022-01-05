@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 15 Dec 2021 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 05 Jan 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -26,10 +26,59 @@
 		</image>
 		<itunes:image href="https://i.imgur.com/mcddFmu.jpg"/>
 		<itunes:category text="Arts">
-			<itunes:category Text="Books"/>
+			<itunes:category text="Books"/>
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>16 - Chapters 41–45</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-16</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-16?</guid>
+			<pubDate>Wed, 05 Jan 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Oooooohhh 😏</strong></p>
+				<p>We&#39;re back from holiday vacations!  Happy New Year!</p>
+				<p>This week, we discuss chapters 41 through 45.</p>
+				<p>Next episode, we&#39;re discussing chapters 46–49:</p>
+				<ol start="46">
+					<li>The Other Side</li>
+					<li>Politcs</li>
+					<li>Well of Souls</li>
+					<li>Substitution</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/17">Github</a>. 😅</del></p>
+				<hr>
+				<p>Xela&#39;s meme:<br><img src="https://c.tenor.com/BgwyXb89yMoAAAAC/monty-python-holy-grail.gif" alt="Xela&#39;s meme"><br>(We included the meme this time!)</p>
+				<ul>
+					<li>
+						<a href="https://parahumans.wordpress.com/">Worm, by John C. McCrae a.k.a. Wildbow (Web Serial)</a>
+						<ul>
+							<li><a href="https://www.doofmedia.com/weve-got-worm/">We&#39;ve Got Worm (Podcast)</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="https://www.parahumans.net/">Ward (Worm sequel), by John C. McCrae a.k.a. Wildbow (Web Serial)</a>
+						<ul>
+							<li><a href="https://www.doofmedia.com/weve-got-ward/">We&#39;ve Got WARD (Podcast)</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="https://www.imdb.com/title/tt10872600/">Spider-Man: No Way Home (2021) (Movie)</a>
+						<ul>
+							<li><a href="https://discord.com/channels/596463843476111362/925132689793765417/925526703479070800">Gorky&#39;s heretic thoughts on the movie (Discord message)</a></li>
+						</ul>
+					</li>
+					<li><a href="https://www.imdb.com/title/tt10919420">Squid Game (2021) (Series)</a></li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Oooooohhh 😏</itunes:subtitle>
+			<itunes:summary>Oooooohhh 😏</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-16/16_chapters_41-45.mp3" length="222538494" type="audio/mpeg"/>
+			<itunes:duration>3:30:58</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>15 - Chapters 37–40</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-15</link>

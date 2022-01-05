@@ -8,6 +8,7 @@ Hosts: [Gorky Rojas](https://github.com/GorkyR) & [Griffin Tabor](https://github
 
 - [RSS](https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss) (paste this link into any podcast app)
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/shaping-exercises-101/id1586390909)
+- [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9nb3JreXIuZ2l0aHViLmlvL1NoYXBpbmdFeGVyY2lzZXMxMDFQb2RjYXN0L3NoYXBpbmctZXhlcmNpc2VzLTEwMS5yc3M)
 - [Spotify](https://open.spotify.com/show/6YYGFtijStxsHMlBCZa0xq)
 - [PlayerFM](https://player.fm/series/shaping-exercises-101)
 - [Podcast Addict](https://podcastaddict.com/podcast/3596040)
