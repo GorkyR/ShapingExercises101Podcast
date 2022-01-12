@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 05 Jan 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 12 Jan 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -31,9 +31,59 @@
 		<itunes:explicit>yes</itunes:explicit>
 
 		<item>
+			<title>17 - Chapters 46–49</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-17</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-17</guid>
+			<pubDate>Wed, 12 Jan 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Stop stalling!</strong></p>
+				<p>This week, we discuss chapters 46 through 49.</p>
+				<p>Next episode, we&#39;re discussing chapters 50–53:</p>
+				<ol start="50">
+					<li>Containment</li>
+					<li>Out of Control</li>
+					<li>Things Fall Apart</li>
+					<li>Phantoms</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/18">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li><a href="https://www.gwern.net/Modus">One Man&#39;s Modus Ponens - Gwern</a></li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:00:57 Feedback</li>
+					<li>00:02:25 Chapter 46 - The Other Side</li>
+					<li>00:41:12 Chapter 47 - Politics</li>
+					<li>01:14:46 Chapter 48 - Well of Souls</li>
+					<li>01:27:05 Fan theory: The Philosopher&#39;s Stone</li>
+					<li>01:35:15 Chapter 48 - Well of Souls (continued)</li>
+					<li>01:57:45 Chapter 49 - Substitution</li>
+					<li>02:25:26 Fan theory: 400 years of pain</li>
+					<li>02:30:26 Chapter 49 - Substitution (continued)</li>
+					<li>02:45:30 Fan theory: Watch the world burn</li>
+					<li>02:52:38 Fan theory: Revenge of the extra</li>
+					<li>02:55:14 Fan theory: Quantum fan fiction</li>
+					<li>03:00:09 Fan theory: The One (2001)</li>
+					<li>03:11:05 Next episode</li>
+					<li>03:15:47 Outro</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Stop stalling!</itunes:subtitle>
+			<itunes:summary>Stop stalling!</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-17/17_chapters_46-49.mp3" length="205974993" type="audio/mpeg"/>
+			<itunes:duration>3:16:05</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
+		<item>
 			<title>16 - Chapters 41–45</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-16</link>
-			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-16?</guid>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-16?v2</guid>
 			<pubDate>Wed, 05 Jan 2022 00:00:00 -0400</pubDate>
 			<description><![CDATA[
 				<p><strong>Oooooohhh 😏</strong></p>
@@ -72,6 +122,24 @@
 					</li>
 					<li><a href="https://www.imdb.com/title/tt10919420">Squid Game (2021) (Series)</a></li>
 				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:01:09 Welcome</li>
+					<li>00:08:34 Chapter 41 - Myriad Clashing Motives</li>
+					<li>00:20:40 Tangent: Spider-Man: Nothing to Write Home About</li>
+					<li>00:30:45 Tangent: Stinks-like-Squid Game</li>
+					<li>00:32:43 Chapter 41 - Myriad Clashing Motives (continued)</li>
+					<li>01:15:31 Chapter 42 - Sum of its Parts</li>
+					<li>01:59:23 Chapter 43 - Overwhelmed</li>
+					<li>02:12:20 Tangent: Naruto Vibes</li>
+					<li>02:19:03 Chapter 43 - Overwhelmed (continued)</li>
+					<li>02:35:45 Chapter 44 - A Show of Trust</li>
+					<li>03:04:03 Chapter 45 - Fine Structures</li>
+					<li>03:28:29 Next episode</li>
+					<li>03:30:41 Outro</li>
+				</ul>
 			]]></description>
 			<itunes:subtitle>Oooooohhh 😏</itunes:subtitle>
 			<itunes:summary>Oooooohhh 😏</itunes:summary>
@@ -104,6 +172,20 @@
 					<li><a href="https://www.youtube.com/watch?v=cUzklzVXJwo">How Imaginary Numbers Were Invented - Veritasium (Video)</a></li>
 					<li><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlordList">Evil Overlord List (TVTropes)</a></li>
 				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:22 Welcome</li>
+					<li>00:00:50 Feedback</li>
+					<li>00:12:19 Chapter 37 - Slow Burn</li>
+					<li>00:48:45 Chapter 38 - Return to Cyoria</li>
+					<li>01:11:28 Chapter 39 - Suspicious Coincidences</li>
+					<li>01:56:15 Chapter 40 - Shifting Tracks</li>
+					<li>02:21:45 Fan theories</li>
+					<li>02:30:52 Next episode</li>
+					<li>02:32:01 Outro</li>
+				</ul>
 			]]></description>
 			<itunes:subtitle>Pizza Business</itunes:subtitle>
 			<itunes:summary>Pizza Business</itunes:summary>
@@ -132,6 +214,18 @@
 				<hr>
 				<ul>
 					<li><a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(TV_series">The Hitchhiker&#39;s Guide to the Galaxy (TV Series) (Wikipedia)</a>)</li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:01:05 Feedback</li>
+					<li>00:11:16 Chapter 34 - Unreasonable Things</li>
+					<li>00:39:05 Chapter 35 - Mistakes Have Been Made</li>
+					<li>01:13:21 Chapter 36 - A Battle of Minds</li>
+					<li>01:38:27 What next?</li>
+					<li>02:00:09 Outro</li>
 				</ul>
 			]]></description>
 			<itunes:subtitle>Like Fire</itunes:subtitle>
@@ -162,6 +256,18 @@
 					<li><a href="https://www.amazon.com/dp/B09M2R6QLF/">Mother of Learning: ARC 1 (Kindle Edition) (Amazon)</a></li>
 					<li><a href="https://www.royalroad.com/fiction/49033/mother-of-learning-the-au-chapters/chapter/798258/the-fourth-looper">Mother of Learning: The Au Chapters - Chapter 4 - The Fourth Looper (Spoiler-free) (RoyalRoad)</a></li>
 				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:01:10 Welcome</li>
+					<li>00:08:05 Chapter 31 - Marked</li>
+					<li>00:48:33 PSA</li>
+					<li>00:49:25 Chapter 32 - Alternatives</li>
+					<li>01:13:11 Chapter 33 - Gateways</li>
+					<li>01:42:53 A decision...</li>
+					<li>01:48:24 Outro</li>
+				</ul>
 			]]></description>
 			<itunes:subtitle>Interrogation</itunes:subtitle>
 			<itunes:summary>Interrogation</itunes:summary>
@@ -186,6 +292,17 @@
 				<hr>
 				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
 				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/13">Github</a>. 😅</del></p>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:01:03 Chapter 28 - Cauldron</li>
+					<li>01:04:35 Chapter 29 - The Hunters and the Hunted</li>
+					<li>01:46:39 Chapter 30 - A Game of Shops</li>
+					<li>02:17:20 Next week&#39;s chapters</li>
+					<li>02:25:56 Outro</li>
+				</ul>
 			]]></description>
 			<itunes:subtitle>The Silver One</itunes:subtitle>
 			<itunes:summary>The Silver One</itunes:summary>
@@ -222,6 +339,16 @@
 					<li><a href="https://www.youtube.com/watch?v=TC1LiBBkDdo">Pitch Meeting - Army of the Dead (Video)</a></li>
 					<li><a href="https://www.youtube.com/watch?v=0TvKsVxgbF4">Spider-Man 2 - Harry Osborn learns the truth (Video)</a></li>
 				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:35 Welcome</li>
+					<li>00:01:14 Retrospective Arc 1: Caught in the Web</li>
+					<li>01:37:21 Chapter 27 - Cast Adrift</li>
+					<li>01:52:46 Next week&#39;s chapters</li>
+					<li>01:57:39 Outro</li>
+				</ul>
 			]]></description>
 			<itunes:subtitle>It was the heat of the moment</itunes:subtitle>
 			<itunes:summary>It was the heat of the moment</itunes:summary>
@@ -244,6 +371,17 @@
 				<hr>
 				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
 				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/11">Github</a>. 😅</del></p>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:02:02 Feedback</li>
+					<li>00:08:11 Chapter 25 - The Unexpected</li>
+					<li>00:57:10 Chapter 26 - Soulkill</li>
+					<li>02:12:53 Plan for next episode</li>
+					<li>02:15:27 Outro</li>
+				</ul>
 			]]></description>
 			<itunes:subtitle>"A lich, a vampire, and a time-traveler walk into a hall..."</itunes:subtitle>
 			<itunes:summary>"A lich, a vampire, and a time-traveler walk into a hall..."</itunes:summary>
@@ -278,6 +416,18 @@
 						</ul>
 					</li>
 				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:22 Welcome</li>
+					<li>00:04:04 Feedback</li>
+					<li>00:17:51 Chapter 22 - Complications</li>
+					<li>01:16:06 Chapter 23 - Lighting the Fuse</li>
+					<li>01:57:35 Chapter 24 - Smoke and Mirrors</li>
+					<li>02:33:14 Next week&#39;s chapters</li>
+					<li>02:36:34 Outro</li>
+				</ul>
 			]]></description>
 			<itunes:subtitle>Friendship ended with Nora.  Now Ilsa is my best friend</itunes:subtitle>
 			<itunes:summary>Friendship ended with Nora.  Now Ilsa is my best friend</itunes:summary>
@@ -306,6 +456,18 @@
 				<ul>
 					<li><a href="https://www.youtube.com/watch?v=IZeWPScnolo">Tim Minchin - Thank You God (Song)</a></li>
 				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:03:30 Feedback</li>
+					<li>00:09:05 Chapter 19 - Tangled Webs</li>
+					<li>01:29:42 Chapter 20 - A Matter of Faith</li>
+					<li>02:09:10 Chapter 21 - Wheel of Fortune</li>
+					<li>02:48:02 Next week&#39;s chapters</li>
+					<li>02:50:28 Outro</li>
+				</ul>
 			]]></description>
 			<itunes:subtitle>The man-whore</itunes:subtitle>
 			<itunes:summary>The man-whore</itunes:summary>
@@ -333,6 +495,18 @@
 				<hr>
 				<ul>
 					<li><a href="https://www.youtube.com/watch?v=bLeQKyrp0mg">Psych S1E1 - &#39;How Many Hats&#39; (Video)</a></li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:22 Welcome</li>
+					<li>00:00:42 Feedback</li>
+					<li>00:12:50 Chapter 16 - We Need To Talk</li>
+					<li>01:17:46 Chapter 17 - Sympathy for the Spider</li>
+					<li>02:08:53 Chapter 18 - The Pact is Sealed</li>
+					<li>03:01:07 Next week&#39;s chapters</li>
+					<li>03:03:58 Outro</li>
 				</ul>
 			]]></description>
 			<itunes:subtitle>Kill. Your. Self!!!</itunes:subtitle>
@@ -367,6 +541,18 @@
 							<li><a href="https://myanimelist.net/anime/5114/">(MyAnimeList)</a></li>
 						</ul>
 					</li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome!</li>
+					<li>00:00:41 Feedback</li>
+					<li>00:03:07 Chapter 13 - Any Second Now</li>
+					<li>00:45:02 Chapter 14 - The Sister Effect</li>
+					<li>01:09:07 Chapter 15 - Busy Friday</li>
+					<li>01:49:32 Next week&#39;s chapters</li>
+					<li>01:54:09 Outro</li>
 				</ul>
 			]]></description>
 			<itunes:subtitle>Ramen becomes very important</itunes:subtitle>
@@ -403,6 +589,19 @@
 						</ul>
 					</li>
 					<li><a href="https://www.maa.org/external_archive/devlin/LockhartsLament.pdf">A Mathematician&#39;s Lament, by Paul Lockhart (pdf)</a></li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome!</li>
+					<li>00:00:38 Feedback</li>
+					<li>00:02:46 Chapter 10 - Overlooked Details</li>
+					<li>00:36:46 Chapter 11 - Limiters</li>
+					<li>01:09:24 Chapter 12 - Soul Web</li>
+					<li>01:45:45 Speculation</li>
+					<li>01:48:30 Next week&#39;s chapters</li>
+					<li>01:50:13 Outro</li>
 				</ul>
 			]]></description>
 			<itunes:subtitle>Friendship ended with Xvim.  Now Nora is my best friend</itunes:subtitle>
@@ -445,6 +644,17 @@
 					</li>
 					<li>Recommended playback speed is still &gt;1.3x 😅</li>
 				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome!</li>
+					<li>00:01:11 Feedback</li>
+					<li>00:02:50 Chapter 8 - Perspective</li>
+					<li>00:41:52 Chapter 9 - Cheaters</li>
+					<li>01:24:08 Next week&#39;s chapters</li>
+					<li>01:25:42 Outro</li>
+				</ul>
 			]]></description>
 			<itunes:subtitle>The Hole: A living being occasionally spawning whorls of matter</itunes:subtitle>
 			<itunes:summary>The Hole: A living being occasionally spawning whorls of matter</itunes:summary>
@@ -474,6 +684,18 @@
 				<ul>
 					<li>This week, I (Gorky) realized my audio was affected by some high-frequency noise.  To salvage the audio, I performed some destructive transformations on it, including filtering out high frequencies.  As a result, my side of this week&#39;s audio sounds a bit more &#39;damp&#39;, and overall much lower quality than usual. Apologies for the degraded experience. 🙇‍♂️</li>
 					<li>Recommended playback speed is still &gt;1.3x 😅</li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome!</li>
+					<li>00:00:45 Feedback</li>
+					<li>00:14:26 Chapter 6 - Concentrate and Try Again</li>
+					<li>00:52:43 Chapter 7 - Of Gaps and Pretending</li>
+					<li>01:22:27 Speculation</li>
+					<li>01:30:07 Next week&#39;s chapters</li>
+					<li>01:33:33 Outro</li>
 				</ul>
 			]]></description>
 			<itunes:subtitle>-Knock, knock. -Who&#39;s—AAAGH!</itunes:subtitle>
@@ -507,6 +729,18 @@
 						</ul>
 					</li>
 					<li><a href="https://www.deviantart.com/envidia14/art/Quatach-ichl-801526521">King lich fanart</a></li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:22 Welcome!</li>
+					<li>00:00:39 Feedback</li>
+					<li>00:10:55 Chapter 4 - Stars Fell</li>
+					<li>01:03:01 Chapter 5 - Start Over</li>
+					<li>01:37:55 Speculation</li>
+					<li>01:41:51 Next week&#39;s chapters</li>
+					<li>01:43:23 Outro</li>
 				</ul>
 			]]></description>
 			<itunes:subtitle>Start over (and make it spin)!</itunes:subtitle>
@@ -551,6 +785,17 @@
 					<li>About half-way into the episode, you may notice a sharp increase in the amount and frequency of &#39;um&#39;s, &#39;uh&#39;s, stutters, pauses, and repetition.  That would be the point where I gave up obsessing over every little detail.  (This episode needed to come out this year.  😬)  We intend for the next one to be better on that front.</li>
 					<li>While discussing Chapter 3, recording had to be postponed multiple times for personal reasons.  I tried to mask this on post, but we may not have done a perfect job picking up every thread we left hanging every time.  My bad.</li>
 				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:20 Welcome!</li>
+					<li>00:00:48 Chapter 1 - Good Morning Brother</li>
+					<li>00:54:57 Chapter 2 - Life&#39;s Little Problems</li>
+					<li>01:45:03 Chapter 3 - The Bitter Truth</li>
+					<li>02:27:03 Next week&#39;s chapters</li>
+					<li>02:29:50 Outro</li>
+				</ul>
 			]]></description>
 			<itunes:subtitle>Perpetually eye-rolling... in his soul</itunes:subtitle>
 			<itunes:summary>Perpetually eye-rolling... in his soul</itunes:summary>
@@ -582,6 +827,21 @@
 					<li>Yes, we know that Lord of the Rings takes place over 3 years. Griffin's girlfriend already chastised him for that mistake.</li>
 					<li>We're both total newbs to podcasting, audio editing, and at least one of us to public speaking <s>(and speaking in general)</s>. Please excuse awkwardness, nervousness, fumbles, with this in mind for the first couple episodes 🙏</li>
 					<li>The intro (and the outro) is an edit of one of the songs from Groundhog Day's OST: &quot;<a href="https://youtu.be/l1ryj5G30NE">Sometimes People Just Die</a>&quot;, by George Fenton</li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:30 Welcome!</li>
+					<li>00:01:00 Podcast format</li>
+					<li>00:01:29 About &#39;Mother of Learning&#39;</li>
+					<li>00:07:00 Other analysis podcasts</li>
+					<li>00:08:05 Story arcs</li>
+					<li>00:08:35 Next week&#39;s chapters</li>
+					<li>00:10:12 Time-loop length?</li>
+					<li>00:11:42 Wrapping up</li>
+					<li>00:12:18 Schedule</li>
+					<li>00:12:55 Outro</li>
 				</ul>
 			]]></description>
 			<itunes:subtitle>New analysis podcast for the web serial (and soon book trilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:subtitle>
