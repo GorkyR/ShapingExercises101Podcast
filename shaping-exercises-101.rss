@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 12 Jan 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 19 Jan 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,63 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>18 - Chapters 50–53</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-18</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-18</guid>
+			<pubDate>Wed, 19 Jan 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Zach The Prudent</strong></p>
+				<p>This week, we discuss chapters 50 through 53.</p>
+				<p>Next episode, we&#39;re discussing chapters 54–56:</p>
+				<ol start="54">
+					<li>The Gate is Barred</li>
+					<li>Threshold</li>
+					<li>Obscure</li>
+				</ol>
+				<p>Recommended listening speed is ≥ 2x</p>
+				<p>We&#39;ll try recording shorted episodes so we can stay more engaged throughout, maybe.</p>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/19">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li><a href="https://www.lesswrong.com/books/2018">A Map that Reflects the Territory - LessWrong Community Essays 2018</a></li>
+					<li>
+						<a href="https://www.lesswrong.com/books/2019">The Engines of Cognition - LessWrong Community Essays 2019</a>
+						<ul>
+							<li><a href="https://www.lesswrong.com/posts/mvPfao35Moah8py46">Launch page</a></li>
+						</ul>
+					</li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Pre-welcome?</li>
+					<li>00:09:25 Welcome</li>
+					<li>00:10:35 Feedback</li>
+					<li>00:20:52 Chapter 50 - Containment</li>
+					<li>01:16:10 Chapter 51 - Out of Control</li>
+					<li>01:40:20 Chapter 52 - Things Fall Apart</li>
+					<li>02:07:33 Speculation</li>
+					<li>02:08:30 Speculation: Person.bak</li>
+					<li>02:14:13 Speculation: Soul reactor</li>
+					<li>02:17:54 Speculation: Red Clone</li>
+					<li>02:21:49 Speculation: Life power</li>
+					<li>02:27:23 Speculation: Dumb restart</li>
+					<li>02:30:27 Speculation: The Big Question</li>
+					<li>02:32:56 Chapter 53 - Phantoms</li>
+					<li>03:08:01 Next episode</li>
+					<li>03:12:05 Outro</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Zach The Prudent</itunes:subtitle>
+			<itunes:summary>Zach The Prudent</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-18/18_chapters_50-53.mp3" length="197657940" type="audio/mpeg"/>
+			<itunes:duration>3:12:22</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>17 - Chapters 46–49</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-17</link>
