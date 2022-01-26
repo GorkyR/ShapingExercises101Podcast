@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 19 Jan 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 26 Jan 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,50 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>19 - Chapters 54–56</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-19</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-19</guid>
+			<pubDate>Wed, 26 Jan 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>This Sentence Is False</strong></p>
+				<p>This week, we discuss chapters 54 through 56.</p>
+				<p>Next episode, we&#39;re discussing chapters 57–60 (!):</p>
+				<ol start="57">
+					<li>Unwanted</li>
+					<li>Questions and Answers</li>
+					<li>One Step Forward</li>
+					<li>Into the Abyss (!)</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/20">Github</a>. 😅</del></p>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:02:13 Feedback</li>
+					<li>00:06:26 Chapter 54: The Gate is Barred</li>
+					<li>00:50:14 Theory: The Rightful Owner</li>
+					<li>01:03:35 Chapter 54: The Gate is Barred (continued)</li>
+					<li>01:18:24 Chapter 55: Threshold</li>
+					<li>01:22:32 Theory: Summon Switcheroo</li>
+					<li>01:26:01 Chapter 55: Threshold (continued)</li>
+					<li>02:11:36 Chapter 56: Obsecure</li>
+					<li>02:22:39 Theory: Primordial Twist</li>
+					<li>02:26:40 Theory: Wolfweres</li>
+					<li>02:30:27 Next episode</li>
+					<li>02:32:05 (One More Thing...)</li>
+					<li>02:33:21 Outro</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>This Sentence Is False</itunes:subtitle>
+			<itunes:summary>This Sentence Is False</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-19/19_chapters_54-56.mp3" length="157584424" type="audio/mpeg"/>
+			<itunes:duration>2:33:38</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>18 - Chapters 50–53</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-18</link>
