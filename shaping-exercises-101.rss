@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 26 Jan 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 02 Feb 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,49 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>20 - Chapters 57–60</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-20</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-20</guid>
+			<pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Worst Vacation Ever!</strong></p>
+				<p>This week, we discuss chapters 57 through 60.</p>
+				<p>Next episode, we&#39;re discussing chapters 61–64:</p>
+				<ol start="61">
+					<li>Anthills</li>
+					<li>Improperly Used</li>
+					<li>The March of Days</li>
+					<li>Distance</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/21">Github</a>. 😅</del></p>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:00:54 Feedback</li>
+					<li>00:05:36 Chapter 57: Unwanted</li>
+					<li>00:48:57 Chapter 58: Questions and Answers</li>
+					<li>01:03:01 Theory?: Extremely forced Naruto comparison</li>
+					<li>01:05:59 Theory: Daimen Boss Battle</li>
+					<li>01:09:34 Chapter 58: Questions and Answers (continued)</li>
+					<li>01:13:00 Chapter 59: One Step Forward</li>
+					<li>01:38:44 Theory?: Ghost brains</li>
+					<li>01:42:04 Chapter 59: One Step Forward (continued)</li>
+					<li>01:49:29 Chapter 60: Into the Abyss</li>
+					<li>02:21:15 Next episode</li>
+					<li>02:25:29 Outro</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Worst Vacation Ever!</itunes:subtitle>
+			<itunes:summary>Worst Vacation Ever!</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-20/20_chapters_57-60.mp3" length="144902347" type="audio/mpeg"/>
+			<itunes:duration>2:25:46</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>19 - Chapters 54–56</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-19</link>
