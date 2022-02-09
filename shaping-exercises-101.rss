@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 02 Feb 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 09 Feb 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,70 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>21 - Chapters 61–64</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-21</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-21</guid>
+			<pubDate>Wed, 09 Feb 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>The Ultimate Prank</strong></p>
+				<p>This week, we discuss chapters 61 through 64.</p>
+				<p>Next episode, we&#39;re discussing chapters 65–67:</p>
+				<ol start="65">
+					<li>Dangerous Ground</li>
+					<li>Marred Perfection</li>
+					<li>Convergence</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/22">Github</a>. 😅</del></p>
+				<hr>
+				<p>Map of Altazia&#39;s Centray Valley:
+				<img src="https://i.imgur.com/PpqvE8h.png" alt="Altazia&#39;s Central Valley">
+				<a href="https://www.deviantart.com/dodo-ptica/art/Altazia-s-Central-Valley-525095257">(Source)</a></p>
+				<hr>
+				<p>MoL-verse World Map:
+				<img src="https://i.imgur.com/suf4AfN.png" alt="World Map">
+				<a href="https://www.deviantart.com/dodo-ptica/art/MoL-verse-World-Map-Huge-657220714">(Source)</a></p>
+				<hr>
+				<ul>
+					<li><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlordList">Evil Overlord List (TVTropes)</a></li>
+					<li><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/ThingsIWillDoIfIAmEverTheHero">Things I Will Do If I Am Ever The Hero (TVTropes)</a></li>
+					<li><a href="http://www.oocities.org/evilsnack/innocent.htm">The Normal Innocent Bystander&#39;s Survival Guide</a></li>
+					<li>
+						⭐ <a href="https://jeffandcaseyshow.com/jacs_0004_0047">Jeff and Casey Show: The Free-To-Play ABA Problem (Podcast Episode) [1 hour]</a>
+						<ul>
+							<li><a href="https://www.youtube.com/watch?v=qLh7wJGsXtY">(Youtube)</a></li>
+							<li>I should&#39;ve been clearer: this is an (extremely hilarious) <strong><em>comedy</em></strong> podcast, by nerds; not a techical one.</li>
+						</ul>
+					</li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:01:39 Chapter 61: Anthills</li>
+					<li>00:18:59 Theory: Evil Sugar Daddy</li>
+					<li>00:22:59 Chapter 61: Anthills (continued)</li>
+					<li>01:04:50 Chapter 62: Improperly Used</li>
+					<li>01:17:24 Theory: Restless Wanderer</li>
+					<li>01:20:05 Chapter 62: Improperly Used (continued)</li>
+					<li>01:24:35 Theory: Zach Malfoy</li>
+					<li>01:29:08 Chapter 62: Improperly Used (continued)</li>
+					<li>02:08:28 Chapter 63: The March of Days</li>
+					<li>02:55:25 Chapter 64: Distance</li>
+					<li>03:21:00 Next episode...</li>
+					<li>03:22:30 Outro</li>
+					<li>03:22:51 Post-credits Scene</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>The Ultimate Prank</itunes:subtitle>
+			<itunes:summary>The Ultimate Prank</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-21/21_chapters_61-64.mp3" length="217466719" type="audio/mpeg"/>
+			<itunes:duration>3:25:40</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>20 - Chapters 57–60</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-20</link>
