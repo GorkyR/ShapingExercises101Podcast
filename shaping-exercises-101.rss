@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 09 Feb 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 16 Feb 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,62 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>22 - Chapters 65–67</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-22</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-22</guid>
+			<pubDate>Wed, 16 Feb 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>He Didn&#39;t Even Have It...</strong></p>
+				<p>This week, we discuss chapters 65 through 67.</p>
+				<p>Next episode, we&#39;re discussing chapters 68–71:</p>
+				<ol start="68">
+					<li>Green Hell</li>
+					<li>Ruin</li>
+					<li>Carried Away</li>
+					<li>Shadows of the Past</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p><a href="https://www.kickstarter.com/projects/wraithmarked/motheroflearningarc1">Check out the author&#39;s Kickstarter!</a></p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/23">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li><a href="https://www.zeldadungeon.net/wiki/images/thumb/4/4b/TP-Goron.png/200px-TP-Goron.png">Goron (Zelda) (Image)</a></li>
+					<li><a href="https://media.sketchfab.com/models/7eb8061e568a4c8483a3e1551da08d45/thumbnails/d17a9eafe064481d8a353722684c0392/f79b1d2930a048949803cae443c82564.jpeg">Random rock golem (Image)</a></li>
+					<li><a href="https://naruto.fandom.com/wiki/Six_Paths_of_Pain">Six Paths of Pain (Wikia)</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/The_Price_(Star_Trek:_The_Next_Generation">Star Trek: The Next Generation - S03E08 - The Price (Wikipedia)</a>#Plot)</li>
+					<li><a href="https://i.imgur.com/frUX0Ud.mp4">Brooklyn Nine-Nine - S06E18 - Suicide Squad - Creepy Basements (Video) [40s]</a></li>
+					<li><a href="https://www.kickstarter.com/projects/wraithmarked/motheroflearningarc1">Mother of Learning: ARC 1 - Signed Paperback &amp; Hardcover (Kickstarter)</a></li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:00:43 Feedback</li>
+					<li>00:19:53 Chapter 65: Dangerous Ground</li>
+					<li>01:01:04 Theory: Captured Gods</li>
+					<li>01:08:13 Chapter 65: Dangerous Ground (continued)</li>
+					<li>01:24:15 Tangent: The Star Wars&#39; Guide?</li>
+					<li>01:26:26 Tangent: Zorian&#39;s Moderate Transhumanism?</li>
+					<li>01:37:14 Chapter 66: Marred Perfection</li>
+					<li>02:18:09 Chapter 67: Convergence</li>
+					<li>02:42:25 Tangent: Empathy Bad?</li>
+					<li>03:02:17 Chapter 67: Convergence (continued)</li>
+					<li>03:06:20 Theory: Pull Request</li>
+					<li>03:10:29 Theory: Two Heads Are Better Than One</li>
+					<li>03:15:10 Next episode...</li>
+					<li>03:17:45 Kickstarter Info</li>
+					<li>03:19:50 Outro</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>He Didn't Even Have It...</itunes:subtitle>
+			<itunes:summary>He Didn't Even Have It...</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-22/22_chapters_65-67.mp3" length="218998905" type="audio/mpeg"/>
+			<itunes:duration>3:20:06</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>21 - Chapters 61–64</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-21</link>
