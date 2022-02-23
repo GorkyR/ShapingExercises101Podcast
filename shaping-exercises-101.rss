@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 16 Feb 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 23 Feb 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,50 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>23 - Chapters 68–71</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-23</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-23</guid>
+			<pubDate>Wed, 23 Feb 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Rekindle</strong></p>
+				<p>This week, we discuss chapters 68 through 71.</p>
+				<p>Next episode, we&#39;re discussing chapters 72–74:</p>
+				<ol start="72">
+					<li>Crossroads</li>
+					<li>Plodding Ahead</li>
+					<li>The Return</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p><a href="https://www.kickstarter.com/projects/wraithmarked/motheroflearningarc1">Check out the author&#39;s Kickstarter!</a></p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/24">Github</a>. 😅</del></p>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:02:01 Tangent: Fight scenes</li>
+					<li>00:09:37 Feedback</li>
+					<li>00:12:15 Chapter 68: Green Hell</li>
+					<li>00:48:21 Chapter 69: Ruins</li>
+					<li>00:51:16 Tangent: Wasteful spells</li>
+					<li>00:55:56 Chapter 69: Ruins (continued)</li>
+					<li>01:05:38 Chapter 70: Carried Away</li>
+					<li>01:10:18 Theory: Sudomir is fucked up</li>
+					<li>01:12:44 Chapter 70: Carried Away (continued)</li>
+					<li>01:33:21 Chapter 71: Shadows of the Past</li>
+					<li>01:49:08 Next episode...</li>
+					<li>01:56:41 Outro</li>
+					<li>01:57:07 Post-credits</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Rekindle</itunes:subtitle>
+			<itunes:summary>Rekindle</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-23/23_chapters_68-71.mp3" length="124946946" type="audio/mpeg"/>
+			<itunes:duration>1:58:20</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>22 - Chapters 65–67</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-22</link>
