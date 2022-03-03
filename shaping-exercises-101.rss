@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 23 Feb 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 02 Mar 2022 22:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,42 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>24 - Chapters 72–74</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-24</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-24</guid>
+			<pubDate>Wed, 02 Mar 2022 22:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Low Mana</strong></p>
+				<p>This week, we discuss chapters 72 through 74.</p>
+				<p>Next episode, we&#39;re discussing chapters 75–78:</p>
+				<ol start="75">
+					<li>Soul Stealer</li>
+					<li>Critical Blunder</li>
+					<li>Testing</li>
+					<li>Grinding Stone</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/25">Github</a>. 😅</del></p>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:02:07 Chapter 72: Crossroads</li>
+					<li>00:43:11 Chapter 73: Plodding Ahead</li>
+					<li>01:05:04 Chapter 74: The Return</li>
+					<li>01:18:07 Next episode...</li>
+					<li>01:21:53 Outro</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Low Mana</itunes:subtitle>
+			<itunes:summary>Low Mana</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-24/24_chapters_72-74.mp3" length="91094056" type="audio/mpeg"/>
+			<itunes:duration>1:22:10</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>23 - Chapters 68–71</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-23</link>
