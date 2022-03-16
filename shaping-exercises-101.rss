@@ -9,10 +9,10 @@
 		<title>Shaping Exercises 101</title>
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
-		<description>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 09k Mar 2022 22:00:00 -0400</lastBuildDate>
+		<description>An analysis/commentary podcast for the web serial (and soon book quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
+		<lastBuildDate>Wed, 16 Mar 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
-		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book t̶r̶i̶l̶o̶g̶y̶ quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
+		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
 		<googleplay:owner>gorkyrojas@gmail.com</googleplay:owner>
 		<itunes:owner>
@@ -30,6 +30,57 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>26 - Chapters 79–82</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-26</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-26</guid>
+			<pubDate>Wed, 16 Mar 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Ladies Man</strong></p>
+				<p>This week, we discuss chapters 79 through 82.</p>
+				<p>Next episode, we&#39;re discussing chapters 83–87:</p>
+				<ol start="83">
+					<li>Scorpion</li>
+					<li>Powerless</li>
+					<li>Critical Mass</li>
+					<li>A New World</li>
+					<li>Agents of the Crown</li>
+				</ol>
+				<p>⚠: No episode next week.  Catch you in two weeks!</p>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/27">Github</a>. 😅</del></p>
+				<hr>
+				<ul>
+					<li><a href="https://www.youtube.com/watch?v=kqpvaV_xY3U">Friends Pitch Meeting (Video) [5m]</a></li>
+					<li><a href="https://www.youtube.com/watch?v=OEaSnmf1JwY">&quot;Pitch Meetings&quot; Pitch Meeting (Video) [4m]</a></li>
+					<li><a href="https://www.youtube.com/watch?v=NtH-HhaLw-Q">The Catchphrase Pitch Meeting (Video) [4m]</a></li>
+					<li><a href="https://www.youtube.com/watch?v=hf_7xAX_fBE">You Son Of A Gun... I&#39;m In (Video) [3m]</a></li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:01:07 Chapter 79: Crime and Evading Punishment</li>
+					<li>00:16:18 Tangent: Awkward Friends Situation</li>
+					<li>00:23:20 Chapter 80: Enemies</li>
+					<li>00:44:13 Chapter 81: A Civil Conversation</li>
+					<li>00:57:42 Theory: Path to lich-hood</li>
+					<li>01:01:16 Theory: Hu-man</li>
+					<li>01:08:26 Chapter 82: Ancient Circles</li>
+					<li>01:29:27 Theory: Blessed Guardians</li>
+					<li>01:34:21 Next episode...</li>
+					<li>01:37:25 Outro</li>
+					<li>01:37:52 Post-credits</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Ladies Man</itunes:subtitle>
+			<itunes:summary>Ladies Man</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-26/26_chapters_79-82.mp3" length="105039559" type="audio/mpeg"/>
+			<itunes:duration>1:38:17</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>25 - Chapters 75–78</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-25</link>
