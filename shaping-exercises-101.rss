@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 16 Mar 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 30 Mar 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,52 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>27 - Chapters 83–87</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-27</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-27</guid>
+			<pubDate>Wed, 30 Mar 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Ethical Torture</strong></p>
+				<p>This week, we discuss chapters 83 through 87.</p>
+				<p>Next episode, we&#39;re discussing chapters 88–92:</p>
+				<ol start="88">
+					<li>Mysterious Ways</li>
+					<li>Victory</li>
+					<li>Change of Plans</li>
+					<li>A Path Paid in Blood</li>
+					<li>The Scramble</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/28">Github</a>. 😅</del></p>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:01:25 Feedback</li>
+					<li>00:06:31 Chapter 83: Scorpion</li>
+					<li>00:16:45 Tangent: Ethical Torture</li>
+					<li>00:28:03 Chapter 83: Scorpion (continued)</li>
+					<li>00:58:48 Chapter 84: Powerless</li>
+					<li>01:18:43 Chapter 85: Critical Mass</li>
+					<li>01:48:27 Chapter 86: A New World</li>
+					<li>01:56:36 Chapter 87: Agents Of The Crown</li>
+					<li>02:13:33 Theory: The Lame Ending</li>
+					<li>02:16:45 Theory: Body Snatcher</li>
+					<li>02:19:18 Theory: True Incarnation</li>
+					<li>02:23:23 Theory: Demon Surprise</li>
+					<li>02:28:43 Next episode...</li>
+					<li>02:31:11 Outro</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Ethical Torture</itunes:subtitle>
+			<itunes:summary>Ethical Torture</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-27/27_chapters_83-87.mp3" length="156909921" type="audio/mpeg"/>
+			<itunes:duration>2:31:45</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>26 - Chapters 79–82</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-26</link>
