@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 30 Mar 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Fri, 08 Apr 2022 23:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,44 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>28 - Chapters 88–92</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-28</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-28</guid>
+			<pubDate>Fri, 08 Apr 2022 23:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>The Wait Is Over</strong></p>
+				<p>This week, we discuss chapters 88 through 92.</p>
+				<p>Next episode, we&#39;re discussing chapters 93–96:</p>
+				<ol start="93">
+					<li>Shelter in the Storm</li>
+					<li>Ghosts</li>
+					<li>Betrayer</li>
+					<li>Contract</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/29">Github</a>. 😅</del></p>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome?</li>
+					<li>00:04:30 Chapter 88: Mysterious Ways</li>
+					<li>00:20:54 Chapter 89: Victory</li>
+					<li>00:50:52 Chapter 90: Change of Plans</li>
+					<li>01:04:30 Chapter 91: A Path Paid in Blood</li>
+					<li>01:38:53 Chapter 92: The Scramble</li>
+					<li>01:51:38 Next episode...</li>
+					<li>01:54:17 Outro</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>The Wait Is Over</itunes:subtitle>
+			<itunes:summary>The Wait Is Over</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-28/28_chapters_88-92.mp3" length="120859737" type="audio/mpeg"/>
+			<itunes:duration>1:54:33</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>27 - Chapters 83–87</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-27</link>
