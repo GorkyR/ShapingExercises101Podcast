@@ -10,7 +10,7 @@
 		<atom:link href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss" rel="self" type="application/rss+xml" />
 		<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases</link>
 		<description>An analysis/commentary podcast for the web serial (and soon book quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</description>
-		<lastBuildDate>Wed, 20 Apr 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 27 Apr 2022 00:00:00 -0400</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>An analysis/commentary podcast for the web serial (and soon book quadrilogy) Mother of Learning, written by Domagoj Kurmaic, featuring rational actors trapped in a timeloop!</itunes:summary>
 		<itunes:author>Gorky Rojas &amp; Griffin Tabor</itunes:author>
@@ -30,6 +30,53 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>31 - Chapters 101–104</title>
+			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-31</link>
+			<guid isPermalink="true">https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-31</guid>
+			<pubDate>Wed, 27 Apr 2022 00:00:00 -0400</pubDate>
+			<description><![CDATA[
+				<p><strong>Kotoamatsukami</strong></p>
+				<p>This week, we discuss chapters 101 through 104.</p>
+				<p>Next episode, we&#39;re discussing chapters 105–Epilogue:</p>
+				<ol start="105">
+					<li>I Win (II)</li>
+					<li>I Win (III)</li>
+					<li>Epilogue</li>
+				</ol>
+				<hr>
+				<p>You can read Mother of Learning in <a href="https://www.royalroad.com/fiction/21220/mother-of-learning">Royal Road</a> and <a href="https://www.fictionpress.com/s/2961893/1/Mother-of-Learning">FictionPress</a>, and <a href="https://www.patreon.com/nobody103">support the author on Patreon</a>.</p>
+				<p>You can chat with us on <a href="https://discord.gg/6Wgankwhcq">Discord</a>. <del>And leave us comments, questions, and suggestions on <a href="https://github.com/GorkyR/ShapingExercises101Podcast/issues/32">Github</a>. 😅</del></p>
+				<hr>
+				<p>Notes:</p>
+				<ul>
+					<li>
+						<a href="https://s5.gifyu.com/images/motheroflearning.png">Zorian&#39;s Hulkbuster (Image)</a>
+						<ul>
+							<li><a href="https://aslovefromlies.artstation.com/projects/Qzdww8">(Source)</a></li>
+						</ul>
+					</li>
+					<li><a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter × Hunter (2011) (MAL)</a></li>
+				</ul>
+				<hr>
+				<p>Timestamps:</p>
+				<ul>
+					<li>00:00:00 Intro</li>
+					<li>00:00:21 Welcome</li>
+					<li>00:02:06 Chapter 101: The Switch</li>
+					<li>00:25:31 Chapter 102: Giants</li>
+					<li>00:59:09 Chapter 103: Window of Opportunity</li>
+					<li>01:29:53 Chapter 104: I Win (I)</li>
+					<li>01:46:33 Next episode...</li>
+					<li>01:49:02 Outro</li>
+				</ul>
+			]]></description>
+			<itunes:subtitle>Kotoamatsukami</itunes:subtitle>
+			<itunes:summary>Kotoamatsukami</itunes:summary>
+			<enclosure url="https://github.com/GorkyR/ShapingExercises101Podcast/releases/download/ep-31/31_chapters_101-104.mp3" length="114066087" type="audio/mpeg"/>
+			<itunes:duration>1:49:19</itunes:duration>
+			<itunes:author>Gorky Rojas</itunes:author>
+		</item>
 		<item>
 			<title>30 - Chapters 97–100</title>
 			<link>https://github.com/GorkyR/ShapingExercises101Podcast/releases/tag/ep-30</link>
